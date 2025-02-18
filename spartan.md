@@ -1,0 +1,8 @@
+- Synced with Latest Sources 
+- February Security Patch
+- Switched volume panel on left side
+- Added OTA support
+- Latest Lineage changes
+- Tweaked Rounded corner radius to match our phone's screen shape (Thanks to @PbW0rD)
+- Updated blobs to RMX3371_14.0.0.1310
+- Improved optimization
