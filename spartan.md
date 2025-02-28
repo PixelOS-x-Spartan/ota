@@ -1,8 +1,4 @@
-- Synced with Latest Sources 
-- February Security Patch
-- Switched volume panel on left side
-- Added OTA support
-- Latest Lineage changes
-- Tweaked Rounded corner radius to match our phone's screen shape (Thanks to @PbW0rD)
-- Updated blobs to RMX3371_14.0.0.1310
-- Improved optimization
+- Implemented Torch light control (swipe left & right on the Flashlight tile to control the intensity of torch)
+- Added OEM Charging detection (now Superdart Charging will be shown when you connect fast charger)
+- Fixed sound distortion issue when notification arrives during whatsapp calls
+- Fixed Integrity (again)
